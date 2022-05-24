@@ -1,1 +1,1 @@
-= training jetpack compose profile repository (.github)
+= gretandroid profile repository (.github)
